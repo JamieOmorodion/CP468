@@ -15,7 +15,7 @@ As the user types the system will take into account things like:
 
 
 Database
-Retrived a database from https://github.com/dwyl/english-words that consists of 479,000 words. The database consists of one table with 3 columns, WORD, SIZE AND FREQUENCY.
+Retrived a database from https://github.com/dwyl/english-words that consists of 379,000 words. The database consists of one table with 3 columns, WORD, SIZE AND FREQUENCY.
 1. Formatting
 After imporitng the database, the words in the database needed to be formatted correctly. First, to ensure there was no duplicate words, For example words like computers would be removed as computer already exists in the database. Aswell, words that are hyphinated are split and punctuation has been removed in order to maintain constiency and not interfer with queries. 
 2. Word size and frequency
